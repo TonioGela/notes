@@ -362,7 +362,7 @@ Here are some solutions:
 * Also see [smallstr](https://docs.rs/smallstr/0.2.0/smallstr/)
 * [flexstr](https://github.com/nu11ptr/flexstr) - Enum String type to unify literals, inlined, and heap strings
 * [kstring](https://docs.rs/kstring/0.1.0/kstring/) - intended for map keys: immutable, inlined for small keys, and have Ref/Cow types to allow efficient sharing.  :)
-* [nested](https://crates.io/crates/nested) - reduce Vec<String> type structures to just two allocations, probably more memory efficient too.
+* [nested](https://crates.io/crates/nested) - reduce `Vec<String>` type structures to just two allocations, probably more memory efficient too.
 * [tinyset](https://docs.rs/tinyset/0.4.2/tinyset/) - space efficient sets and maps, can be combined with nested perhaps
 * [bumpalo](https://docs.rs/bumpalo/3.2.1/bumpalo/collections/index.html) can do really cheap group allocations in a `Bump` and has custom `String` and `Vec` versions.  At least lowers allocation overhead.
 

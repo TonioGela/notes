@@ -72,7 +72,7 @@
 - [Http4s - Quick Start](https://http4s.org/v1.0/index.html)
 - [How to Learn Nix, Part 4: Quick starts, full hearts](https://ianthehenry.com/posts/how-to-learn-nix/quick-start-guide/)
 - [md2blog: A zero-config static site generator for dev blogs](https://jaredkrinke.github.io/md2blog/index.html)
-- [What is Rust's Into<T> for? - Julio Merino (jmmv.dev)](https://jmmv.dev/2020/04/rust-into-trait.html)
+- [What is Rust's `Into<T>` for? - Julio Merino (jmmv.dev)](https://jmmv.dev/2020/04/rust-into-trait.html)
 - [Jodd](https://jodd.org/)
 - [What Color is Your Function? – journal.stuffwithstuff.com](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 - [Debug your programs like they're closed source!](https://jvns.ca/blog/2014/04/20/debug-your-programs-like-theyre-closed-source/)
